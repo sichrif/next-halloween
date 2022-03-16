@@ -1,3 +1,5 @@
+this is the same [halloween](https://github.com/sichrif/Halloween) website but made in Next Js with TypeScript
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
