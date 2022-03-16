@@ -3,6 +3,9 @@ import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import ScrollReveal from "./containers/ScrollReveal";
 import { Swiper, SwiperSlide } from 'swiper/react';
+import { Autoplay, Pagination, Navigation } from "swiper";
+import Fade from 'react-reveal/Fade'
+import Slide from 'react-reveal/Slide'
 // importing icons from iconify
 import { Icon } from '@iconify/react';
 import gridAlt from '@iconify/icons-bx/grid-alt';
